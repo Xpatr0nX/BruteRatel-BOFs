@@ -1,5 +1,4 @@
 <h1 align="center">
-<br>
 <img width="400" height="400" src=Images/br_bof.png>
 <br>
 Brute Ratel BOFs
